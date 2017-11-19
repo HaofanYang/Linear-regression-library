@@ -1,3 +1,5 @@
+# Please open the html file to view the overall display of the completed project
+
 
 # Linear Regression Project
 
